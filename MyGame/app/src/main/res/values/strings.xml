@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SweetBonanza</string>
+    <string name="play">Confirm</string>
+    <string name="play1">Play</string>
+    <string name="paswordhint">Enter Your Password</string>
+    <string name="label1">Player</string>
+    <string name="label2">Password</string>
+    <string name="namehint">Enter Your Name</string>
+    <string name="wallethint">  Change It</string>
+    <string name="wallet">Credits</string>
+    <string name="turn">Rotate</string>
+    <string name="spin">Free Spin Left</string>
+</resources>
